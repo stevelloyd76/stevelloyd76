@@ -1,4 +1,4 @@
-<h1>Hi, I'm Steve, an <a href="https://linkedin.com/in/Josh](https://www.linkedin.com/in/steve-lloyd-993248233/">IT Professional</a>☺</h1>
+<h1>Hi, I'm Steve, an <a href="https://www.linkedin.com/in/stevelloyd77">IT Professional</a>☺</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
@@ -14,4 +14,4 @@
 
 [<img align="left" alt="Josh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-[linkedin]: https://www.linkedin.com/in/steve-lloyd-993248233/
+[linkedin]: https://www.linkedin.com/in/stevelloyd77
